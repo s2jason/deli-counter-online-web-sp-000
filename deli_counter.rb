@@ -4,8 +4,8 @@ def take_a_number(katz_deli, name)
   puts "Welcome, #{name}. You are number #{katz_deli} in line"
 end
 
-def line(queue)
-  puts "#{queue}"
+def line(store)
+  puts 
   puts "The line is currently empty."
 end
 
