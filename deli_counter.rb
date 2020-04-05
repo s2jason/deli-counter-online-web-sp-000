@@ -9,4 +9,4 @@ def line(queue)
   puts "The line is currently empty."
 end
 
-take_a_number(another_deli) = ["Amanda", "Annette", "Ruchi", "Jason", "Logan", "Spencer", "Avi", "Joe", "Rachel", "Lindsey"] 
+(another_deli) = ["Amanda", "Annette", "Ruchi", "Jason", "Logan", "Spencer", "Avi", "Joe", "Rachel", "Lindsey"] 
