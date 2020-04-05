@@ -6,6 +6,5 @@ end
 
 def line(deli)
   puts "#{deli}"
-  
   puts "The line is currently empty."
 end
