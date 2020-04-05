@@ -8,3 +8,4 @@ def line(queue)
   puts "#{queue}"
   puts "The line is currently empty."
 end
+
